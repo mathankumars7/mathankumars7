@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Madhankumar S
+# Hi there 👋, I'm Mathankumar S
 
 🚀 **Full Stack Developer** passionate about building scalable web apps and smart automation solutions.  
 💻 Skilled in **HTML, CSS, JavaScript, MERN Stack, C, Java, and Python**.  
@@ -23,7 +23,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Madhankumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Mathankumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
