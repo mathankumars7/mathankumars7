@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mathankumar S
+# Hi there 👋, I'm Mathankumar S motta manda ruby 
 
 🚀 **Full Stack Developer** passionate about building scalable web apps and smart automation solutions.  
 💻 Skilled in **HTML, CSS, JavaScript, MERN Stack, C, Java, and Python**.  
